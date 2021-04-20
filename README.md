@@ -1,1 +1,0 @@
-# strangeguys.github.io
