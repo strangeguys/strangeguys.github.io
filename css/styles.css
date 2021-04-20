@@ -6079,17 +6079,17 @@ a.close.disabled {
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
-  background-color: #148f77 !important;
+  background-color: #07745e !important;
 }
 
 .bg-secondary {
-  background-color: #07d8fd !important;
+  background-color: #071ff7 !important;
 }
 
 a.bg-secondary:hover, a.bg-secondary:focus,
 button.bg-secondary:hover,
 button.bg-secondary:focus {
-  background-color: #071827 !important;
+  background-color: #f704ce !important;
 }
 
 .bg-success {
