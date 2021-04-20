@@ -83,7 +83,7 @@
                             <div class="portfolio-item-caption-content text-center text-white"><i
                                     class="fas fa-plus fa-3x"></i></div>
                         </div>
-                        <img class="img-fluid" src="assets/img/portfolio/cabin.png" alt="" />
+                        <img class="img-fluid" src="https://img.icons8.com/doodle/240/000000/image-file.png" alt=""/>
                     </div>
                 </div>
                 <!-- Portfolio Item 2-->
