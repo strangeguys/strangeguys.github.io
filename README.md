@@ -255,11 +255,11 @@
                 <!-- Footer Social Icons-->
                 <div class="col-lg-4 mb-5 mb-lg-0">
                     <h4 class="text-uppercase mb-4">Around the Web</h4>
-                    <a target="_blank" class="btn btn-outline-light btn-social mx-1" href="#!"><i
+                    <a target="_blank" class="btn btn-outline-light btn-social mx-1" href="https://www.facebook.com/victor.maldonadodoop/"><i
                             class="fab fa-fw fa-facebook-f"></i></a>
-                    <a target="_blank" class="btn btn-outline-light btn-social mx-1" href="#!"><i
+                    <a target="_blank" class="btn btn-outline-light btn-social mx-1" href="https://web.whatsapp.com/"><i
                             class="fab fa-fw fa-whatsapp"></i></a>
-                    <a target="_blank" class="btn btn-outline-light btn-social mx-1" href="#!"><i
+                    <a target="_blank" class="btn btn-outline-light btn-social mx-1" href="https://www.instagram.com/alien_juice0.0/"><i
                             class="fab fa-fw fa-instagram"></i></a>
                     <a class="btn btn-outline-light btn-social mx-1" href="#!"><i class="fab fa-fw fa-dribbble"></i></a>
                 </div>
